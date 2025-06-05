@@ -1,4 +1,6 @@
-# LDA Topic Modeling
+# lda-topic-modeling
+
+**Tech Stack:** ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![NLTK](https://img.shields.io/badge/NLTK-FF4500?logo=nltk&logoColor=white) ![pyLDAvis](https://img.shields.io/badge/pyLDAvis-F4A415?logo=pyldavis&logoColor=white)
 
 This project applies **Latent Dirichlet Allocation (LDA)** to extract topics from social media accounts. Using **natural language processing (NLP)** techniques, the text data is preprocessed, tokenized, and analyzed to identify key themes discussed by different accounts. The repository includes data preprocessing, LDA model training, topic evaluation, and visualization of results.
 
