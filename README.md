@@ -1,4 +1,4 @@
-# lda-topic-modeling
+# LDA Topic Modeling
 
 **Tech Stack:** ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![NLTK](https://img.shields.io/badge/NLTK-FF4500?logo=nltk&logoColor=white) ![pyLDAvis](https://img.shields.io/badge/pyLDAvis-F4A415?logo=pyldavis&logoColor=white)
 
